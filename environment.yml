@@ -13,5 +13,5 @@ dependencies:
   - ipympl
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
-  - climada
+  - climada=5.0.0=pyhd8ed1ab_2
   - ipympl
