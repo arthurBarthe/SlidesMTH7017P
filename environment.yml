@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - numpy
+  - xarray
   - scipy
   - voila
   - kagglehub
@@ -15,5 +16,3 @@ dependencies:
   - jupyter_nbextensions_configurator
   - climada=5.0.0
   - climada-petals=5.0.0
-  - ipympl
-  - xarray=2025.1.2
