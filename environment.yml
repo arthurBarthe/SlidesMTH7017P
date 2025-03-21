@@ -16,3 +16,4 @@ dependencies:
   - climada=5.0.0
   - climada-petals=5.0.0
   - ipympl
+  - xarray=2025.1.2
